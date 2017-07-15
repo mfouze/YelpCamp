@@ -7,7 +7,7 @@ app.get('/', function(req, res){
     res.send("landing");
 
 });
-//ceci est un commentaire unique 
+//ceci est un commentaire
 
 app.listen(8085, function(){
     console.log("server has started");
